@@ -1,15 +1,7 @@
 # Assignment 3: Azul Project
 
-You must read fully and carefully the assignment specification and instructions detailed in this file. You are NOT to modify this file in any way.
-
 * **Course:** [COMP90054 AI Planning for Autonomy](https://handbook.unimelb.edu.au/subjects/comp90054) @ Semester 1, 2023
 * **Instructor:** Tim Miller and Nir Lipovetzky
-* **Deadline Team Registration:** Monday 1 May, 2023 @ 18:00 (start of Week 9)
-* **Deadline Preliminary Submission:** Monday 8 May, 2023 @ 18:00 (start of Week 10)
-* **Deadline Wiki report, video & final Submission:** Monday 22 May, 2023 @ 18:00 (start of Week 12)
-* **Course Weight:** 35% total, comprising 5% (preliminary competition) + 10% (final competition) + 5% (video) + 15% (Wiki)
-* **Assignment type:**: Groups of 3 (not 2 or 4!)
-* **Learning outcomes covered:** 1-5
 
  <p align="center"> 
     <img src="img/azul.jpg" alt="Picture of Azul board" width="400">
@@ -17,7 +9,7 @@ You must read fully and carefully the assignment specification and instructions 
  
 The purpose of this project is to implement an autonomous agent that can play the game Azul and compete in the UoM COMP90054-2023 Azul competition:
 
- **Please read carefully the rules of the [Azul game](https://www.ultraboardgames.com/azul/game-rules.php)**. Azul can be understood as a deterministic, two-player game. Understanding the results and different strategies is important for designing a good agent for this project. Additional technical information on the contest project and how to get started can be found in file [azul.md](Azul/azul.md). 
+ **The rules of the [Azul game](https://www.ultraboardgames.com/azul/game-rules.php)**. Azul can be understood as a deterministic, two-player game. Understanding the results and different strategies is important for designing a good agent for this project. Additional technical information on the contest project and how to get started can be found in file [azul.md](Azul/azul.md). 
 
 ### Table of contents
 
